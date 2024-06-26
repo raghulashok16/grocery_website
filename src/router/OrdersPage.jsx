@@ -1,9 +1,11 @@
 import React from 'react'
+import NavigationHeader from './../ui/NavigationHeader';
 
 const OrdersPage = () => {
     return (
         <div>
-            <h1>orders page</h1>
+            <NavigationHeader />
+            <p className='text-9xl p-5 text-center '>orders page</p>
         </div>
     )
 }
