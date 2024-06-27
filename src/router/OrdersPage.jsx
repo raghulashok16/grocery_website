@@ -5,7 +5,7 @@ const OrdersPage = () => {
     return (
         <div>
             <NavigationHeader />
-            <p className='text-9xl p-5 text-center '>orders page</p>
+            <p>orders page</p>
         </div>
     )
 }

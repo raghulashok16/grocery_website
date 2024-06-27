@@ -2,5 +2,6 @@ body{
     background-color: #f1f5f9;
 }
 .active{
-    text-decoration: underline white;   
+    text-decoration: underline white ;
+    text-underline-offset: 3px;   
 }

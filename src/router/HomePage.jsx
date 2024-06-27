@@ -5,6 +5,7 @@ const HomePage = () => {
     return (
         <div>
             <NavigationHeader />
+            <p>home page</p>
         </div>
     )
 }
